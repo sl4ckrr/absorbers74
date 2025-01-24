@@ -7,6 +7,10 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  textcolor: #fff;
+  background-img: url("themesbg/bg.png"), rgb(59, 67, 78);
+    /* https://wallhaven.cc/w/jxl3qp */
+  shadow: 0px 0px 2px #a5dcf5;
 }
 .center {
   margin: auto;
